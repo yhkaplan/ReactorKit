@@ -1,0 +1,4 @@
+module ReactorKitRuntime {
+    umbrella header "/Users/josh/dev/ReactorKit/Sources/ReactorKitRuntime/include/ReactorKitRuntime.h"
+    export *
+}
